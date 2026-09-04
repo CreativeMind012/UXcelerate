@@ -16,7 +16,7 @@ Welcome! Follow the steps below to participate and submit your entry.
 4. **Submit your forked repo**
    Once you're done, copy the link to your forked repository and submit it via the official submission form:
 
-   👉 **[[Google Form Link Here]](https://docs.google.com/forms/d/e/1FAIpQLSdF-HbTXtL_Qk098nPxq8cwys_6ANyRC2fb8I2SQCcYy4XXuQ/viewform?usp=publish-editor)**
+   👉 **[[UXcelerate]](https://docs.google.com/forms/d/e/1FAIpQLSdF-HbTXtL_Qk098nPxq8cwys_6ANyRC2fb8I2SQCcYy4XXuQ/viewform?usp=publish-editor)**
 
 ## Notes
 
