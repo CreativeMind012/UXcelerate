@@ -1,4 +1,4 @@
-# UXcelerate
+# UXcelerate!
 
 Welcome! Follow the steps below to participate and submit your entry.
 
