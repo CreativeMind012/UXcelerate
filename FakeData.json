@@ -12,4 +12,23 @@
       "currentTask": "Exploring Sector B"
     }
   ]
+  "survivors": 
+  [
+    {
+      "id": "S1",
+      "location": { "x": 130, "y": 350 },
+      "foundBy": "R1",
+      "timestamp": "...set time"
+    }
+  ]
+  "hazards": 
+  [
+    {
+      "id": "H1",
+      "type": "building_collapse_risk",
+      "location": { "x": 200, "y": 300 },
+      "severity": "high",
+      "detectedAt": "...set coordinates"
+    }
+  ]
 }
