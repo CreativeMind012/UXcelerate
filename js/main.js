@@ -1,6 +1,6 @@
-function loadData() {
-  const response = fetch('FakeData.json');
-  const data = response.json();
+async function loadData() {
+  const response = await fetch('FakeData.json');
+  const data =await response.json();
   console.log(data.robots);
 }
 loadData();
