@@ -1,0 +1,15 @@
+{
+  "robots": 
+  [
+    {
+      "id": "R1",
+      "name": "Scout-1",
+      "status": "active",
+      "battery": 78,
+      "signalStrength": "strong",
+      "lastSeen": "...set coordinates", 
+      "location": { "x": 120, "y": 340 },
+      "currentTask": "Exploring Sector B"
+    }
+  ]
+}
