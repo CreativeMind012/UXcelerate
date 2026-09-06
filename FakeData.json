@@ -11,7 +11,7 @@
       "location": { "x": 120, "y": 340 },
       "currentTask": "Exploring Sector B"
     }
-  ]
+  ],
   "survivors": 
   [
     {
@@ -20,7 +20,7 @@
       "foundBy": "R1",
       "timestamp": "...set time"
     }
-  ]
+  ],
   "hazards": 
   [
     {
